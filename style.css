@@ -1,0 +1,77 @@
+body {
+    max-width: 500px;
+
+}
+
+.intro {
+    background-color: rgb(247, 247, 247);
+    margin-left: 0;
+    border: 1px solid black;
+    margin-bottom: 0;
+    border: 0.5px solid white;
+}
+
+.intro h3 {
+    color: #0ABAB5;
+    margin-top: 25px;
+}
+
+.intro h4 {
+    color: rgb(219, 219, 84);
+    ;
+}
+
+.intro p {
+    line-height: 2;
+    color: rgb(163, 127, 127);
+}
+
+.wrapper {
+    display: flex;
+    margin-top: 0;
+}
+
+.second {
+    width: 220px;
+    line-height: 2;
+    background-color: #0ABAB5;
+    color: white;
+    padding: 10px;
+}
+.second h4{
+    opacity: 0.8;
+}
+
+.second span {
+    display: block;
+    opacity: 0.8;
+    
+}
+
+
+button {
+    margin: 20px;
+    width: 150px;
+    padding: 10px;
+    background-color: rgb(219, 219, 84);
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+
+.last {
+    background-color: turquoise;
+    color: white;
+    padding: 10px;
+    width: 250px;
+}
+
+.last ul {
+    list-style-type: none;
+    opacity: 0.6;
+}
+
+h5 {
+    opacity: 0.9;
+    margin-left: 40px;
+}
